@@ -1,0 +1,76 @@
+<html>
+<head>
+<style>
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: 150px;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">        
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="vis.htm" class="page-scroll"><h2>home</h2></a></li>
+            </ul>
+          </div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/1.jpg">
+    <img src="pandey electronics/1.jpg" alt="1" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/2.jpg">
+    <img src="pandey electronics/2.jpg" alt="2" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/3.jpg">
+    <img src="pandey electronics/3.jpg" alt="3" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/4.jpg">
+    <img src="pandey electronics/4.jpg" alt="4" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/5.jpg">
+    <img src="pandey electronics/5.jpg" alt="5" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="pandey electronics/6.jpg">
+    <img src="pandey electronics/6.jpg" alt="6" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
+</html>
